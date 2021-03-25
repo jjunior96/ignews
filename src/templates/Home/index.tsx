@@ -1,6 +1,6 @@
 import * as S from './styles';
 
-const Dashboard: React.FC = () => {
+const Home: React.FC = () => {
   return (
     <S.Container>
       <h1>Home</h1>
@@ -8,4 +8,4 @@ const Dashboard: React.FC = () => {
   );
 };
 
-export default Dashboard;
+export default Home;
